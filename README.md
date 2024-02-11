@@ -25,14 +25,8 @@ This is a simple QR Code Generator web application that allows users to generate
 - CSS
 - JavaScript
   
-
-## Installation
-
-No installation required. Just open the `index.html` file in a web browser.
-
 ## Screenshots
 
-[Include screenshots of your application]
 
 ## Responsive Design
 
@@ -40,5 +34,5 @@ The application is designed to be responsive and works well on various screen si
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
