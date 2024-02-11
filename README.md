@@ -1,6 +1,6 @@
 # QR-Code-Generator
 
-## Hosted Website Link :- https://abhijeetqrcodegenerator.netlify.app/
+## Hosted Website Link :-  https://abhijeetqrcodegenerator.netlify.app/
 
 # QR Code Generator
 
