@@ -24,8 +24,19 @@ This is a simple QR Code Generator web application that allows users to generate
 - HTML
 - CSS
 - JavaScript
-  
+
+
+## Installation
+
+No installation required. Just open the `index.html` file in a web browser.
+
 ## Screenshots
+
+![Screenshot (501)](https://github.com/AbhijeetKrMishra2/QR-Code-Generator/assets/139151966/2b889a4c-b854-4d2c-8dd8-9f94c469d5ae)
+
+![Screenshot (502)](https://github.com/AbhijeetKrMishra2/QR-Code-Generator/assets/139151966/db38c726-52fb-468a-9679-725b181dc18a)
+
+![Screenshot (505)](https://github.com/AbhijeetKrMishra2/QR-Code-Generator/assets/139151966/3e2ab883-f6e6-45f6-8318-06fd0b2ac633)
 
 
 ## Responsive Design
